@@ -1,0 +1,7 @@
+// apply plugin: 'android-library'
+apply plugin: 'groovy'
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.3.+'
+    testCompile 'junit.junit:4.+'
+}
